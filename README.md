@@ -444,15 +444,13 @@ The selected model is subsequently evaluated on the previously unseen test datas
 * F1-Score
 * ROC-AUC
 
-> **Recommendation:** Add your actual numerical results here once your final notebook is complete. For example, you can include a table comparing all three models rather than only stating which model performed best.
-
-### Example Results Table
+### Results Table
 
 | Model                   | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 | ----------------------- | -------: | --------: | -----: | -------: | ------: |
-| Multinomial Naive Bayes |        — |         — |      — |        — |       — |
-| Logistic Regression     |        — |         — |      — |        — |       — |
-| Linear SVM              |        — |         — |      — |        — |       — |
+| Multinomial Naive Bayes |   0.9566 |   0.9590  | 0.9491 | 0.9540   | 0.9898  |
+| Logistic Regression     |   0.9908 |  0.9892   | 0.9915 |  0.9903  | 0.9990  |
+| Linear SVM              |   0.9966 |  0.9967   | 0.9962 | 0.9965   | 0.9999  |
 
 ---
 
