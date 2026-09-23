@@ -114,9 +114,6 @@ The primary objectives of this project are:
 # Dataset Characteristics
 
 ## Dataset Source
-
-The project uses the **Fake News Detection dataset provided with the assignment**.
-
 The dataset consists of separate files containing fake and real news articles.
 
 ### Dataset Files
