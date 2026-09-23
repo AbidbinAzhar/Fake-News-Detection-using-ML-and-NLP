@@ -1,23 +1,6 @@
-Programming & Data Processing
-Python
-Pandas
-NumPy
-
-Natural Language Processing
-NLTK
-Regular Expressions (Regex)
-TF-IDF
-
-Machine Learning
-Scikit-learn
-Multinomial Naive Bayes
-Logistic Regression
-Linear Support Vector Machine
-
-Data Visualization
-Matplotlib
-Seaborn
-
-Development Environment
-Google Colab
-Jupyter Notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
