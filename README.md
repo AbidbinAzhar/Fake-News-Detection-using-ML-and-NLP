@@ -1,5 +1,3 @@
-# Fake-News-Detection-using-ML-and-NLP
-# Fake-News-Detection-using-ML-and-NLP
 
 ## Fake News Detection Using Machine Learning and Natural Language Processing
 
