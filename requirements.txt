@@ -1,4 +1,4 @@
-Programming & Data Processing
+Programming & Data Processing:
   Python
   Pandas
   NumPy
